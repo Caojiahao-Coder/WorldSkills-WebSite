@@ -1,0 +1,149 @@
+header {
+    width: 100%;
+    height: 53px;
+    background-color: #4a0d66;
+}
+
+.header-inner {
+    width: 1140px;
+    height: 100%;
+    margin: 0 auto;
+}
+
+.header-inner a {
+    height: 100%;
+    float: left;
+    line-height: 53px;
+}
+
+.header-inner .nav {
+    width: 1030px;
+    height: 53px;
+    float: right;
+    position: relative;
+}
+
+.header-inner .nav ul {
+    display: flex;
+    float: right;
+    justify-content: space-between;
+    width: 382px;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    right: 78px;
+}
+
+.header-inner .nav a {
+    font-size: 15px;
+}
+
+.header-inner .nav-item {
+    color: #fff;
+    font-size: 11px;
+}
+
+.header-inner .login-inner {
+    display: inline-block;
+    background-color: #fff;
+    width: 59px;
+    height: 31px;
+    position: absolute;
+    right: 0px;
+    top: 11px;
+    color: #4a0d66;
+    text-align: center;
+    line-height: 31px;
+    font-weight: bold;
+    font-size: 14px;
+    text-decoration: none;
+}
+
+.header-inner .login-inner:hover {
+    background-color: gainsboro;
+}
+
+footer {
+    height: 504px;
+    background-color: #003764;
+}
+
+footer .content {
+    height: 100%;
+}
+
+footer .content .item {
+    width: 190px;
+    height: 352px;
+    float: left;
+    margin-top: 48px;
+}
+
+footer .content .item h3 {
+    color: white;
+    font-weight: bold;
+    font-size: 22px;
+    margin: 32px 0;
+}
+
+footer .content .item a {
+    display: block;
+    margin-bottom: 16px;
+    color: white;
+    font-size: 16px;
+    height: 20px;
+    line-height: 20px;
+}
+
+footer .content .item .input-search {
+    background-color: #034973;
+    width: 228px;
+    height: 38px;
+    border-radius: 1px;
+    outline: none;
+    border: 0px;
+    padding-left: 22px;
+    color: #487798;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+footer .content .item .submit-search {
+    color: white;
+    width: 116px;
+    height: 38px;
+    background-color: #d51067;
+    border-radius: 1px;
+    outline: none;
+    border: 0px;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+footer .content .search {
+    position: relative;
+}
+
+footer .content .item img {
+    position: absolute;
+    right: 5px;
+    top: 180px;
+}
+
+footer .content .bottom-cotnent {
+    position: absolute;
+    bottom: 0;
+}
+
+footer .content .bottom-content p {
+    color: white;
+    font-size: 18px;
+    float: left;
+}
+
+footer .content .bottom-content a {
+    color: white;
+    font-size: 18px;
+    float: left;
+    margin-left: 20px;
+}

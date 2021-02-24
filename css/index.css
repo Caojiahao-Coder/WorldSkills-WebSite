@@ -1,0 +1,541 @@
+.banner {
+    height: 857px;
+}
+
+.hero {
+    width: 100%;
+    height: 857px;
+    background-image: url(../images/ws-collage-hero-2.jpg);
+    background-repeat: repeat;
+    background-position: top;
+    /* background-size: 45% 100%; */
+    background-size: contain;
+    position: absolute;
+}
+
+.hero-content {
+    width: 733px;
+    height: 224px;
+    margin: 500px auto;
+    position: relative;
+}
+
+.hero-content h1 {
+    display: block;
+    width: 733px;
+    height: 102px;
+    background-color: black;
+    color: white;
+    font-size: 62px;
+    font-weight: 900;
+    padding-top: 25px;
+    padding-left: 8px;
+}
+
+.hero-content h2 {
+    display: block;
+    width: 733px;
+    height: 52px;
+    background-color: black;
+    color: white;
+    font-size: 22px;
+    padding-left: 8px;
+    padding-top: 12px;
+}
+
+.hero-content a {
+    display: block;
+    width: 175px;
+    height: 39px;
+    background-color: white;
+    line-height: 39px;
+    text-align: center;
+    color: #4a0d66;
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.hero-content a:hover {
+    background-color: gainsboro;
+}
+
+.inproving-our-world-with-the-power-of-skills .row {
+    height: 48px;
+    background-color: white;
+}
+
+.inproving-our-world-with-the-power-of-skills .bottom-row {
+    height: 60px;
+    background-color: white;
+}
+
+.inproving-our-world-with-the-power-of-skills {
+    background-color: white;
+    width: 100%;
+    height: 472px;
+}
+
+.inproving-our-world-with-the-power-of-skills .content {
+    height: 364px;
+    text-align: center;
+    padding: 40px 0;
+}
+
+.inproving-our-world-with-the-power-of-skills .content p {
+    font-size: 18px;
+    margin-top: 21px;
+}
+
+.inproving-our-world-with-the-power-of-skills .content h1 {
+    width: 820px;
+    font-weight: 900;
+    font-size: 30px;
+    color: black;
+    margin: 42px auto;
+}
+
+.inproving-our-world-with-the-power-of-skills .content a {
+    background-color: white;
+    outline: 0px;
+    display: block;
+    width: 193px;
+    height: 36px;
+    line-height: 36px;
+    border: 1px solid black;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    margin: 15px auto;
+}
+
+.inproving-our-world-with-the-power-of-skills .content a:hover {
+    background-color: rgb(43, 43, 43);
+    color: white;
+}
+
+.container-01 .content {
+    height: 1054px;
+    padding: 48px 0;
+    position: relative;
+}
+
+.container-01 .content .item-01 {
+    width: 360px;
+    height: 360px;
+    background-color: #d51067;
+    position: relative;
+}
+
+.container-01 .content .item-01 img {
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.container-01 .content .item-01 a {
+    display: block;
+    width: 310px;
+    color: white;
+    font-size: 26px;
+    font-weight: 900;
+    position: absolute;
+    top: 86px;
+    left: 29px;
+}
+
+.container-01 .content .item-01 p {
+    color: white;
+    font-size: 14px;
+    position: absolute;
+    top: 250px;
+    left: 29px;
+    font-weight: bold;
+}
+
+.container-01 .content .item-02 {
+    width: 740px;
+    height: 360px;
+    position: absolute;
+    top: 48px;
+    right: 0;
+}
+
+.container-01 .content .item-02 img {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.container-01 .content .item-02 div {
+    background-color: #003764;
+    width: 370px;
+    height: 100%;
+    background-image: url(../images/底部柱状图.svg);
+    background-position: center 250px;
+    background-repeat: no-repeat;
+}
+
+.container-01 .content .item-02 div p {
+    color: white;
+    font-size: 26px;
+    font-weight: 900;
+    position: absolute;
+    top: 113px;
+    left: 29px;
+}
+
+.container-01 .content .item-02 div p:hover {
+    text-decoration: underline;
+}
+
+.container-01 .content .item-02 div i {
+    color: white;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: bold;
+    position: absolute;
+    top: 200px;
+    left: 29px;
+}
+
+.container-01 .content .item-03 {
+    width: 360px;
+    height: 360px;
+    background-color: #fff;
+    position: relative;
+    margin-top: 20px;
+}
+
+.container-01 .content .item-03 a {
+    font-size: 18px;
+    color: #d51067;
+    font-weight: 900;
+}
+
+.container-01 .content .item-03 p {
+    font-size: 14px;
+    color: rgb(37, 35, 35);
+    font-weight: bold;
+    line-height: 24px;
+}
+
+.container-01 .content .item-04 {
+    width: 360px;
+    height: 360px;
+    background-color: #f15122;
+    position: relative;
+    top: -360px;
+    left: 380px;
+    background-image: url(../images/网格背景.svg);
+    background-position: -100px;
+    background-repeat: no-repeat;
+    background-size: 200%;
+}
+
+.container-01 .content .item-04 a {
+    color: white;
+    font-size: 26px;
+    font-weight: 900;
+    position: relative;
+    top: 29px;
+    left: 33px;
+}
+
+.container-01 .content .item-05 {
+    width: 380px;
+    height: 420px;
+    position: absolute;
+    top: 428px;
+    right: 0;
+}
+
+.container-01 .content .item-05 li {
+    padding-left: 20px;
+}
+
+.container-01 .content .item-05 li div {
+    width: 100%;
+    height: 140px;
+    /* background-color: white; */
+    border-bottom: 1px solid gray;
+    position: relative;
+}
+
+.container-01 .content .item-05 li div a {
+    font-size: 17px;
+    font-weight: 700;
+    color: #d51067;
+    position: absolute;
+    top: 34px;
+}
+
+.container-01 .content .item-05 li div p {
+    position: absolute;
+    top: 93px;
+    color: gray;
+}
+
+.container-01 .content .item-05 li div a:hover {
+    text-decoration: underline;
+}
+
+.container-01 .content .item-05 .see-all-news {
+    color: #d51067;
+    font-size: 18px;
+    font-weight: 700;
+    float: right;
+    text-decoration: none;
+}
+
+.container-02 {
+    background-color: #4a0d66;
+    height: 445px;
+    background-image: url(../images/方块背景.svg);
+    background-position: center;
+    background-repeat: repeat;
+}
+
+.container-02 .content {
+    height: 100%;
+    text-align: center;
+}
+
+.container-02 img {
+    margin-top: 112px;
+}
+
+.container-02 h1 {
+    color: white;
+    font-size: 30px;
+    font-weight: 700;
+    margin-top: 37px;
+}
+
+.container-02 .content form {
+    display: inline-block;
+}
+
+.container-02 .content .input-email {
+    display: block;
+    text-align: center;
+    width: 350px;
+    height: 36px;
+    padding: 6px 20px;
+    margin-top: 14px;
+    outline: none;
+    border: 1px solid gray;
+    border-radius: 2px;
+}
+
+.container-02 .content .input-subscribe {
+    background-color: #d51067;
+    color: white;
+    width: 138px;
+    height: 38px;
+    outline: 0px;
+    border: 0px;
+    margin-top: 16px;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.container-03 {
+    height: 698px;
+    background-color: white;
+}
+
+.container-03 .content {
+    height: 100%;
+}
+
+.container-03 .content .row {
+    height: 48px;
+}
+
+.container-03 .event-header {
+    height: 141px;
+    position: relative;
+}
+
+.container-03 .event-header h2 {
+    background-image: url(../images/title.svg);
+    background-repeat: no-repeat;
+    background-position: left;
+    padding-left: 44px;
+    line-height: 141px;
+    font-size: 24px;
+    font-weight: 700;
+    /* 设置居中 */
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+}
+
+.container-03 .event-header a {
+    line-height: 141px;
+    font-size: 18px;
+    font-weight: 700;
+    /* 设置居中 */
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+    color: #d51067;
+}
+
+.container-03 .item-01 {
+    float: left;
+    width: 360px;
+    height: 360px;
+    background-color: #f7f7f7;
+}
+
+.container-03 .item-01 a {
+    font-size: 24px;
+    color: #d51067;
+    font-weight: 700;
+}
+
+.container-03 .item-02 {
+    float: left;
+    width: 380px;
+    height: 420px;
+}
+
+.container-03 .item-02 li {
+    padding-left: 20px;
+}
+
+.container-03 .item-02 li div {
+    padding: 24px 0;
+    width: 100%;
+    height: 140px;
+    /* background-color: white; */
+    border-bottom: 1px solid gray;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.container-03 .item-02 li div a {
+    font-size: 17px;
+    font-weight: 700;
+    color: #d51067;
+}
+
+.container-03 .item-02 li div p {
+    font-weight: bold;
+    color: #333333;
+}
+
+.container-03 .item-02 li div a:hover {
+    text-decoration: underline;
+}
+
+.container-04 {
+    height: 853px;
+    padding: 48px 0;
+}
+
+.container-04 .content {
+    height: 100%;
+}
+
+.container-04 .main .item-01 {
+    width: 360px;
+    height: 581px;
+    float: left;
+}
+
+.container-04 .main .item-01 a {
+    display: block;
+    width: 141px;
+    height: 38px;
+    background-color: #d51067;
+    color: white;
+    text-align: center;
+    line-height: 38px;
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+    margin-top: 50px;
+}
+
+.container-04 .main .item-01 a:hover {
+    background-color: #640830;
+}
+
+.container-04 .main .item-01 .second-title {
+    margin-top: 32px;
+    padding: 40px 0;
+    font-size: 20px;
+    line-height: 30px;
+    color: #333333;
+    border-top: 1px solid rgb(197, 197, 197);
+}
+
+.container-04 .main .item-01 .see-all-partners {
+    background-color: white;
+    border: 1px solid #d51067;
+    color: #d51067;
+    width: 204px;
+    height: 36px;
+    margin-top: 50px;
+}
+
+.container-04 .main .item-01 .see-all-partners:hover {
+    color: white;
+    background-color: #d51067;
+}
+
+.container-04 .main .item-02 {
+    width: 360px;
+    height: 360px;
+    float: left;
+    background-color: #0e779f;
+    margin-left: 20px;
+    background-image: url(../images/蓝色不规则背景图.svg);
+    background-position: -100px;
+    background-repeat: no-repeat;
+    background-size: 200%;
+    padding: 22px 28px;
+}
+
+.container-04 .main .item-02 a {
+    color: white;
+    font-size: 28px;
+    font-weight: 900;
+}
+
+.container-04 .main .item-02 p {
+    color: white;
+    font-size: 14px;
+}
+
+.container-04 .main .item-03 {
+    width: 360px;
+    height: 360px;
+    float: left;
+    background-color: #f15122;
+    margin-left: 20px;
+    background-image: url(../images/橙色不规则网格.svg);
+    background-position: -100px;
+    background-repeat: no-repeat;
+    background-size: 200%;
+    padding: 22px 28px;
+}
+
+.container-04 .main .item-03 a {
+    color: white;
+    font-size: 28px;
+    font-weight: 900;
+}
+
+.container-04 .main .item-03 p {
+    color: white;
+    font-size: 14px;
+}

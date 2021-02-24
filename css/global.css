@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'icomoon';
+    src:  url('../fonts/icomoon.eot?vtkhdt');
+    src:  url('../fonts/icomoon.eot?vtkhdt#iefix') format('embedded-opentype'),
+      url('../fonts/icomoon.ttf?vtkhdt') format('truetype'),
+      url('../fonts/icomoon.woff?vtkhdt') format('woff'),
+      url('../fonts/icomoon.svg?vtkhdt#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+  }
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: FrutigerLTW04, Frutiger, Arial, sans-serif;
+}
+
+body {
+    background-color: #fafafa;
+}
+
+li {
+    list-style: none;
+}
+
+.box {
+    width: 1120px;
+    margin: 0 auto;
+}
